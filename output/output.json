@@ -1,0 +1,50 @@
+{
+  "project": "RFP Document Extraction",
+  "schema_version": "1.0",
+  "bids": [
+    {
+      "bid_number": "JA-207652",
+      "title": "Student and Staff Computing Devices",
+      "due_date": "July 9, 2024 at 2:00 PM CST",
+      "bid_submission_type": "Electronic submission through the Dallas ISD iSupplier portal is preferred. Manual submission by sealed envelope is permitted. Fax and email submissions are not accepted.",
+      "term_of_bid": "Initial term: 3 years; Renewal 1: 1 year; Renewal 2: 1 year; maximum total term: 5 years.",
+      "pre_bid_meeting": "June 10, 2024 at 2:00 PM CST via TEAMS video conference.",
+      "installation": "White glove deployment services including asset decaling, asset reporting, etching, and delivery to varied locations.",
+      "bid_bond_requirement": "Offeror must comply with the District's insurance, bid bond, or liability requirements stated elsewhere in the solicitation. Insurance/bond documentation is required within 10 days of award.",
+      "delivery_date": "No specific calendar delivery date is stated. The awarded vendor must meet the agreed delivery deadline.",
+      "payment_terms": "No specific payment schedule is stated in the supplied RFP. Applicable invoicing and payment requirements are governed by the resulting contract.",
+      "additional_documentation_required": "Pertinent product literature/documentation; factory-authorized repair and maintenance certifications for resellers; demonstrated competencies and references; detailed deployment/tracking plan; credit application or similar documents if required; applicable Form 1295; applicable M/WBE documentation; insurance/bond form; and acknowledgement of applicable addenda.",
+      "mfg_for_registration": "Proposed make/model must be the manufacturer's current OEM model; resellers must provide factory-authorized repair and maintenance certifications.",
+      "contract_or_cooperative_to_use": "Educational Purchasing Cooperative of North Texas (EPCNT). Dallas ISD also identifies participation in the Central Texas Purchasing Alliance (CTPA).",
+      "model_no": "Vendor-proposed make and model; no single model number is specified by the RFP.",
+      "part_no": "Not specified in the supplied Dallas ISD RFP.",
+      "product": "Student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+      "contact_info": "Buyer: Jasmine Alzate; Email: JALZATE@dallasisd.org; Phone: 972.925.4140",
+      "company_name": "Dallas Independent School District",
+      "bid_summary": "Dallas Independent School District issued RFP 168884 / JA-207652 for student and staff computing devices. The procurement covers laptops, desktops, tablets, and display monitors. The contract has an initial three-year term with two one-year renewal options, for a maximum of five years. Addendum 2 changed the submission deadline to July 9, 2024 at 2:00 PM CST.",
+      "product_specification": "Minimum specifications are defined for multiple device tiers, including student Chromebooks, a student Windows laptop, a student tablet, staff desktops, staff laptops, and touch/non-touch display monitors. Requirements cover processor, memory, storage, display, operating system, wireless connectivity, ports, battery life, deployment, and warranty."
+    },
+    {
+      "bid_number": "BPM044557 / E20P4600040",
+      "title": "Dell Laptops w/Extended Warranty",
+      "due_date": "June 10, 2024",
+      "bid_submission_type": "Electronic submission through the State's eMaryland Marketplace Advantage (eMMA) e-Procurement system. Bids are not accepted by email, fax, U.S. Mail, or hand delivery.",
+      "term_of_bid": "The PORFP does not state a separate contract term. Responses must remain valid for at least 90 days after the proposal due date.",
+      "pre_bid_meeting": "No pre-bid meeting identified in the supplied PORFP.",
+      "installation": "No separate installation requirement identified in the supplied PORFP.",
+      "bid_bond_requirement": "No specific bid bond requirement identified in the supplied PORFP.",
+      "delivery_date": "Delivery within 45 days of Award.",
+      "payment_terms": "Invoices shall be submitted within 10 days of delivering the equipment. Invoices must include contractor name, mailing address, SSN or Federal Tax ID, phone number, PORFP number, date, invoice number, amount due, and proof of delivery including packing slip/delivery confirmation and equipment serial numbers.",
+      "additional_documentation_required": "Mercury Affidavit; Letter of Authorization from the manufacturer or distributor if requested; warranty certificate or affidavit; and other documentation required by the Hardware Master Contract/PORFP.",
+      "mfg_for_registration": "Dell",
+      "contract_or_cooperative_to_use": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007; Purchase Order Request for Proposals (PORFP).",
+      "model_no": "SI# CC7802 Dell Latitude 5550; WD22TB4 Dell Thunderbolt 4 Dock",
+      "part_no": "CC7802; WD22TB4",
+      "product": "Dell Latitude 5550 laptops and Dell Thunderbolt 4 Dock WD22TB4; quantity 30 of each listed item.",
+      "contact_info": "Agency POC: Tamaira Hawkins; Email: thawkins@treasurer.state.md.us; Phone: 410-260-7533; On-site contact: James Simpson, 410-260-6063.",
+      "company_name": "State Treasurer's Office / Information Technology",
+      "bid_summary": "The Maryland State Treasurer's Office / Information Technology issued PORFP E20P4600040 (eMMA Project BPM044557) under the Hardware Master Contract. The procurement requests Dell Latitude 5550 laptops and Dell Thunderbolt 4 Dock WD22TB4 units. Responses are submitted electronically through eMMA, and delivery is required within 45 days of award.",
+      "product_specification": "Dell Latitude 5550 laptops must be Microsoft Copilot ready. The Dell quote/specification contains detailed processor, memory, storage, display, connectivity and accessory information. The PORFP also lists Dell Thunderbolt 4 Dock WD22TB4. The requested warranty is a Dell Limited Hardware Warranty extended for all machines for 3 years following the date of delivery."
+    }
+  ]
+}
